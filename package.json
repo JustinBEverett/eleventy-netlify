@@ -1,0 +1,22 @@
+{
+  "name": "eleventy-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinBEverett/eleventy-netlify.git"
+  },
+  "author": "Justin Everett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinBEverett/eleventy-netlify/issues"
+  },
+  "homepage": "https://github.com/JustinBEverett/eleventy-netlify#readme",
+  "devDependencies": {
+    "eleventy": "^1.0.6"
+  }
+}
