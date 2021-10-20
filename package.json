@@ -19,7 +19,7 @@
     "url": "https://github.com/JustinBEverett/eleventy-netlify/issues"
   },
   "homepage": "https://github.com/JustinBEverett/eleventy-netlify#readme",
-  "dependencies": {
+  "devDependencies": {
     "eleventy": "^1.0.6"
   }
 }
